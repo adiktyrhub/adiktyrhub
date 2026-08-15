@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Aditya Katiyar</h1>
+<h1 align="left">👋 Hi, I'm Aditya Katiyar</h1>
 
-<h3 align="center">
+<h3 align="left">
 B.Tech CSE Student passionate about building and learning
 </h3>
 
 <p align="center">
-💻 Software Development &nbsp;•&nbsp;
+💻 Building projects &nbsp;•&nbsp;
 🧠 DSA &nbsp;•&nbsp;
 🚀 Exploring New Technologies
 </p>
