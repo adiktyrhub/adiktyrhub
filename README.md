@@ -4,7 +4,7 @@
 B.Tech CSE Student passionate about building and learning
 </h3>
 
-<p align="center">
+<p align="left">
 💻 Building projects &nbsp;•&nbsp;
 🧠 DSA &nbsp;•&nbsp;
 🚀 Exploring New Technologies
