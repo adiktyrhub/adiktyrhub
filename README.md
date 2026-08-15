@@ -1,5 +1,17 @@
+<h1 align="center">👋 Hi, I'm Aditya Katiyar</h1>
+
+<h3 align="center">
+B.Tech CSE Student passionate about building and learning
+</h3>
+
+<p align="center">
+💻 Software Development &nbsp;•&nbsp;
+🧠 DSA &nbsp;•&nbsp;
+🚀 Exploring New Technologies
+</p>
+
 # 💫 About Me:
-I'm Aditya, a B.Tech CSE student passionate about software development<br>and technology. I enjoy learning how things work and turning ideas<br>into practical projects.<br><br>Currently exploring Java, DSA, Python, and web development while<br>working on projects that challenge me to learn something new.
+I'm B.Tech CSE student passionate about software development<br>and technology. I enjoy learning how things work and turning ideas<br>into practical projects.<br><br>Currently exploring Java, DSA, Python, and web development while<br>working on projects that challenge me to learn something new.
 
 
 ## 🌐 Socials:
